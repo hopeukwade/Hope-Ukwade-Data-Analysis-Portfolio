@@ -17,13 +17,13 @@ My CV in PDF.
 This is a repository to showcase skills,share projects and track my progress in Data Analysis.
 
 
-##Table of Contents
+#Table of Contents
 
 
-  ###About
+  #About
 
   
-  ####Portfolio Projects
+  #Portfolio Projects
 
   
       *Python
