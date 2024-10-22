@@ -1,4 +1,4 @@
-# Hope Ukwade_Data Analyst Portfolio
+# Hope Ukwade_Data Analysis Portfolio
 # About
 Hi, I'm Hope! I am a Data Analyst with a background in teaching.I hope to pursue a career role in Data Analysis.
 
@@ -17,10 +17,10 @@ My CV in PDF.
 This is a repository to showcase skills,share projects and track my progress in Data Analysis.
 
 
-# Table_of_Contents
+# Table of Contents
 
 
-  # About
+  # About(#About)
 
   
   # Portfolio Projects
