@@ -23,6 +23,6 @@ This is a repository to showcase skills,share projects and track my progress in 
    [About](#About)
 
   
-   [Portfolio Projects](#Portfolio Project)
+   [Portfolio Projects](#PortfolioProject)
     *Python
        
