@@ -27,5 +27,26 @@ This is a repository to showcase skills,share projects and track my progress in 
 
    
             1. Python
-                -
+
+                - Movie trends and correlation 
+
+                - Most Streamed Music Spotify
+
+
+            2.  SQL
+
+                 - Nashville Housing Data Cleaning
+
+                 - Walmart Sales Project
+
+            3.  Power Bi
+
+                 - Inpatients and Outpatients Hospital Analysis
+
+                 - Outdoor Sales Analysis
+
+            4.  Excel 
+
+                 -Coffee Order Analysis
+                 
        
