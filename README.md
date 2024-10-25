@@ -48,5 +48,15 @@ This is a repository to showcase skills,share projects and track my progress in 
             4.  Excel 
 
                  -Coffee Order Analysis
+
+
+ ### [Education](Education)
+ 
+
+ #### [Certificates](Certificates)
+
+
+##### [Contact](Contact)
+ 
                  
        
