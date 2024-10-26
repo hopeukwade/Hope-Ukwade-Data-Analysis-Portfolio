@@ -28,20 +28,20 @@ This is a repository to showcase skills,share projects and track my progress in 
    
             - Python
 
-                - Movie trends and correlation 
+                - [Movie trends and correlation project](#movie-trends-and-correlation-project) 
 
-                - Most Streamed Music Spotify
+                - [Most Streamed Music Spotify](#Most-Streamed-Music-Spotify)
 
 
             -  SQL
 
-                 - Nashville Housing Data Cleaning
+                 - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
 
-                 - Walmart Sales Project
+                 - [Walmart Sales Project](#walmart-sales-project)
 
             -  Power Bi
 
-                 - Inpatients and Outpatients Hospital Analysis
+                 - [Inpatients and Outpatients Hospital Analysis]
 
                  - Outdoor Sales Analysis
 
