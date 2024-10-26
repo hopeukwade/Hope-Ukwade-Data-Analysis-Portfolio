@@ -50,10 +50,10 @@ This is a repository to showcase skills,share projects and track my progress in 
                  -Coffee Order Analysis
 
 
- ### [Education](Education)
+ [Education](Education)
  
 
- ### [Certificates](Certificates)
+ [Certificates](Certificates)
 
 
  ### [Contact](Contact)
