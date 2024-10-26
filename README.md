@@ -67,7 +67,7 @@ This is a repository to showcase skills,share projects and track my progress in 
 
  ### Movie trends and correlationproject
 
- **Code:** [`movie trends and correlationproject.ipynb`] (https://github.com/hopeukwade/Portfolioprojects/blob/a91b7a07de17f347c8f7e733ba979dbc39130735/movie%20trends%20and%20correlationproject.ipynb)
+ **Code:** [` movie trends and correlationproject.ipynb `]
 
  
  
