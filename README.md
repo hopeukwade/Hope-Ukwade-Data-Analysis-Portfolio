@@ -23,7 +23,7 @@ This is a repository to showcase skills,share projects and track my progress in 
    [About](#About)
 
   
-   [Portfolio Projects](#PortfolioProject)
+   [Portfolio Projects](#PortfolioProjects)
 
    
             1. Python
@@ -50,16 +50,16 @@ This is a repository to showcase skills,share projects and track my progress in 
                  -Coffee Order Analysis
 
 
- #### [Education](Education)
+ ### [Education](Education)
  
 
- #### [Certificates](Certificates)
+ ### [Certificates](Certificates)
 
 
- #### [Contact](Contact)
+ ### [Contact](Contact)
 
 
- # [Portfolio Projects](#PortfolioProject)
+ # [Portfolio Projects](#PortfolioProjects)
  
                  
        
