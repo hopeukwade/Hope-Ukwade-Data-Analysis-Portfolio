@@ -67,7 +67,7 @@ This is a repository to showcase skills,share projects and track my progress in 
 
  ### Movie trends and correlation project
 
- **Code:** [`movie trends and correlationproject.ipynb`]
+ **Code:** [`movie trends and correlationproject.ipynb`](README.md)
 
  
  
