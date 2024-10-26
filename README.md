@@ -26,7 +26,7 @@ This is a repository to showcase skills,share projects and track my progress in 
    - [Portfolio Projects](#Portfolio-Projects)
 
    
-            - Python
+      - Python
 
         - [Movie trends and correlationproject](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio/#Movie-trends-and-correlationproject) 
 
