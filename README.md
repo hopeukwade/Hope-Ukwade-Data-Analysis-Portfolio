@@ -28,26 +28,26 @@ This is a repository to showcase skills,share projects and track my progress in 
    
             - Python
 
-                - [Movie trends and correlation project](#movie-trends-and-correlationproject) 
+                - [Movie trends and correlation project](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio/blob/6ebfdfcc5d980eb0f2550094b4899a9ef11b746d/README.md#movie-trends-and-correlationproject) 
 
-                - [Most Streamed Music Spotify](#Most-Streamed-Music-Spotify)
+                - [Most Streamed Music Spotify](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio/blob/6ebfdfcc5d980eb0f2550094b4899a9ef11b746d/README.md#Most-Streamed-Music-Spotify)
 
 
             -  SQL
 
-                 - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
+                 - [Nashville Housing Data Cleaning](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio/blob/6ebfdfcc5d980eb0f2550094b4899a9ef11b746d/README.md#nashville-housing-data-cleaning)
 
-                 - [Walmart Sales Project](#walmart-sales-project)
+                 - [Walmart Sales Project](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio/blob/6ebfdfcc5d980eb0f2550094b4899a9ef11b746d/README.md#walmart-sales-project)
 
             -  Power Bi
 
-                 - [Inpatients and Outpatients Hospital Analysis](#inpatients-and-outpatients-hospital-analysis)
+                 - [Inpatients and Outpatients Hospital Analysis](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio/blob/6ebfdfcc5d980eb0f2550094b4899a9ef11b746d/README.md#inpatients-and-outpatients-hospital-analysis)
 
-                 - [Outdoor Sales Analysis](#outdoor-sales-analysis)
+                 - [Outdoor Sales Analysis](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio/blob/6ebfdfcc5d980eb0f2550094b4899a9ef11b746d/README.md#outdoor-sales-analysis)
 
             -  Excel 
 
-                 - [Coffee Order Analysis](#coffee-order-analysis)
+                 - [Coffee Order Analysis](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio/blob/6ebfdfcc5d980eb0f2550094b4899a9ef11b746d/README.md#coffee-order-analysis)
 
 
  [Education](Education)
