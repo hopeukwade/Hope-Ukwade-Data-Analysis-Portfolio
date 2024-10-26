@@ -20,34 +20,34 @@ This is a repository to showcase skills,share projects and track my progress in 
 ## Table of Contents
 
 
- -  [About](#About)
+  -  [About](#About)
 
   
-    - [Portfolio Projects](#Portfolio-Projects)
+   - [Portfolio Projects](#Portfolio-Projects)
 
    
             - Python
 
-       - [Movie trends and correlationproject](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio/#Movie-trends-and-correlationproject) 
+        - [Movie trends and correlationproject](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio/#Movie-trends-and-correlationproject) 
 
-          - [Most Streamed Music Spotify](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio#Most-Streamed-Music-Spotify)
+        - [Most Streamed Music Spotify](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio#Most-Streamed-Music-Spotify)
 
 
             -  SQL
 
-                 - [Nashville Housing Data Cleaning](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio#nashville-housing-data-cleaning)
+               - [Nashville Housing Data Cleaning](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio#nashville-housing-data-cleaning)
 
-                 - [Walmart Sales Project](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio#walmart-sales-project)
+               - [Walmart Sales Project](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio#walmart-sales-project)
 
             -  Power Bi
 
-                 - [Inpatients and Outpatients Hospital Analysis](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio#inpatients-and-outpatients-hospital-analysis)
+               - [Inpatients and Outpatients Hospital Analysis](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio#inpatients-and-outpatients-hospital-analysis)
 
-                 - [Outdoor Sales Analysis](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio#outdoor-sales-analysis)
+               - [Outdoor Sales Analysis](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio#outdoor-sales-analysis)
 
             -  Excel 
 
-                 - [Coffee Order Analysis](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio#coffee-order-analysis)
+               - [Coffee Order Analysis](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio#coffee-order-analysis)
 
 
  [Education](Education)
@@ -68,6 +68,16 @@ This is a repository to showcase skills,share projects and track my progress in 
  ### Movie trends and correlationproject
 
  **Code:** [` movie trends and correlationproject.ipynb `](https://github.com/hopeukwade/Portfolioprojects/blob/main/movie%20trends%20and%20correlationproject.ipynb)
+
+ **Goal:** The goal of this project is to analyse movie trends that contribute to the success of a movie. Using python,the project aims to provide valuable insights that can help movie production company make informed decisions.
+
+ **Dataset/Descrition:** This Dataset is gotten from Kaggle,it contains 15 columns and 668 rows which include columns like movie titles,genres,budgets and other relevant information. the project involved loading data,cleaning and preprocessing it,performing exploratory data analysis(EDA),analysing the correlation betwwen budgets and earnings.
+
+ **Skills:** Data cleaning,Data analysis,correlations matrics,Data visualization.
+
+ **Technology:** Python,Pandas,Numpy,Seaborn and Matplotlib.
+
+ **Result:** Updating all columns to numeric values helps us to understand which variables are strongly or weakly correlated with each other. Votes and budget has the highest correlation. The Action Genre had the highest level of success across all movies whereas family genre had the highest average success rates. There was a strong positive relationship between movie budget and vote count suggesting higher budget movies leads to more votes. Factors like production company,movie name and genre showed little or no correlation with success.
 
  
  
