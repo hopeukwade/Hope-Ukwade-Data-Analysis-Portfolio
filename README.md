@@ -28,7 +28,7 @@ This is a repository to showcase skills,share projects and track my progress in 
    
             - Python
 
-                - [Movie trends and correlation project](README.md#movie-trends-and-correlationproject) 
+                - [Movie trends and correlationproject](#Movie-trends-and-correlationproject) 
 
                 - [Most Streamed Music Spotify](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio/blob/6ebfdfcc5d980eb0f2550094b4899a9ef11b746d/README.md#Most-Streamed-Music-Spotify)
 
@@ -65,7 +65,7 @@ This is a repository to showcase skills,share projects and track my progress in 
  In this section, I will list data analytics projects briefly describing the technology stack used to solve these cases
 
 
- ### Movie trends and correlation project
+ ### Movie trends and correlationproject
 
  **Code:** [`movie trends and correlationproject.ipynb`] (https://github.com/hopeukwade/Portfolioprojects/blob/a91b7a07de17f347c8f7e733ba979dbc39130735/movie%20trends%20and%20correlationproject.ipynb)
 
