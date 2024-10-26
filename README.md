@@ -28,7 +28,7 @@ This is a repository to showcase skills,share projects and track my progress in 
    
             - Python
 
-                - [Movie trends and correlation project](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio/blob/6ebfdfcc5d980eb0f2550094b4899a9ef11b746d/README.md#movie-trends-and-correlationproject) 
+                - [Movie trends and correlation project](README.md#movie-trends-and-correlationproject) 
 
                 - [Most Streamed Music Spotify](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio/blob/6ebfdfcc5d980eb0f2550094b4899a9ef11b746d/README.md#Most-Streamed-Music-Spotify)
 
