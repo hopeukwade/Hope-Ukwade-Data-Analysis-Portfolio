@@ -41,13 +41,13 @@ This is a repository to showcase skills,share projects and track my progress in 
 
             -  Power Bi
 
-                 - [Inpatients and Outpatients Hospital Analysis]
+                 - [Inpatients and Outpatients Hospital Analysis](#inpatients-and-outpatients-hospital-analysis)
 
-                 - Outdoor Sales Analysis
+                 - [Outdoor Sales Analysis](#outdoor-sales-analysis)
 
             -  Excel 
 
-                 -Coffee Order Analysis
+                 - [Coffee Order Analysis](#coffee-order-analysis)
 
 
  [Education](Education)
@@ -62,7 +62,12 @@ This is a repository to showcase skills,share projects and track my progress in 
  ## Portfolio Projects
  
 
- In this section, I will list data analytics projects briefly describing the technology stack used to solve these cases.
+ In this section, I will list data analytics projects briefly describing the technology stack used to solve these cases
+
+
+ ### Movie trends and correlation project
+
+ **Code:** [`movie trends and correlationproject.ipynb`]
 
  
  
