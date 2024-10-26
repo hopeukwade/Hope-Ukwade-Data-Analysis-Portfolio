@@ -23,17 +23,15 @@ This is a repository to showcase skills,share projects and track my progress in 
   -  [About](#About)
 
   
-   - [Portfolio Projects](#Portfolio-Projects)
+  - [Portfolio Projects](#Portfolio-Projects)
 
-   
-      - Python
+   - Python
 
         - [Movie trends and correlationproject](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio/#Movie-trends-and-correlationproject) 
 
         - [Most Streamed Music Spotify](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio#Most-Streamed-Music-Spotify)
 
-
-            -  SQL
+          -  SQL
 
                - [Nashville Housing Data Cleaning](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio#nashville-housing-data-cleaning)
 
