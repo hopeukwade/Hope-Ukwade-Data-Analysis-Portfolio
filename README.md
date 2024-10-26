@@ -1,5 +1,5 @@
 # Hope Ukwade_Data Analysis Portfolio
-# About
+## About
 Hi, I'm Hope! I am a Data Analyst with a background in teaching.I hope to pursue a career role in Data Analysis.
 
 
@@ -20,32 +20,32 @@ This is a repository to showcase skills,share projects and track my progress in 
 ## Table of Contents
 
 
-   [About](#About)
+ -  [About](#About)
 
   
-   [Portfolio Projects](#PortfolioProjects)
+  - [Portfolio Projects](#PortfolioProjects)
 
    
-            1. Python
+            - Python
 
                 - Movie trends and correlation 
 
                 - Most Streamed Music Spotify
 
 
-            2.  SQL
+            -  SQL
 
                  - Nashville Housing Data Cleaning
 
                  - Walmart Sales Project
 
-            3.  Power Bi
+            -  Power Bi
 
                  - Inpatients and Outpatients Hospital Analysis
 
                  - Outdoor Sales Analysis
 
-            4.  Excel 
+            -  Excel 
 
                  -Coffee Order Analysis
 
@@ -59,7 +59,7 @@ This is a repository to showcase skills,share projects and track my progress in 
  [Contact](Contact)
 
 
- # [Portfolio Projects](#PortfolioProjects)
+ ## Portfolio Projects
  
 
  In this section, I will list data analytics projects briefly describing the technology stack used to solve these cases.
