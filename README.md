@@ -28,7 +28,7 @@ This is a repository to showcase skills,share projects and track my progress in 
    
             - Python
 
-                - [Movie trends and correlation project](#movie-trends-and-correlation-project) 
+                - [Movie trends and correlation project](#movie-trends-and-correlationproject) 
 
                 - [Most Streamed Music Spotify](#Most-Streamed-Music-Spotify)
 
@@ -67,7 +67,7 @@ This is a repository to showcase skills,share projects and track my progress in 
 
  ### Movie trends and correlation project
 
- **Code:** [`movie trends and correlationproject.ipynb`](movie trends and correlationproject.ipynb)
+ **Code:** [`movie trends and correlationproject.ipynb`] (movie trends and correlationproject.ipynb)
 
  
  
