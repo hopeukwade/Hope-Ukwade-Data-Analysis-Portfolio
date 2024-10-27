@@ -46,9 +46,6 @@ This is a repository to showcase skills,share projects and track my progress in 
          -  Excel 
 
                - [Coffee Order Analysis](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio#coffee-order-analysis)
-
-
- [Education](Education)
  
 
  [Certificates](Certificates)
@@ -95,9 +92,69 @@ This is a repository to showcase skills,share projects and track my progress in 
 
 ### Nashville Housing Data Cleaning 
 
-**Code:** [`
+**Code:** [`Data Cleaning Project Queries;Nashville Housing.sql`](https://github.com/hopeukwade/Portfolioprojects/blob/a91b7a07de17f347c8f7e733ba979dbc39130735/Data%20Cleaning%20Project%20Queries%3BNashville%20Housing.sql)
 
- 
+**Description:** The Dataset contains a list of housing sold in Nashvile between 2013-2019. The Projects includes the following steps:Data loading,cleaning and preprocessing.
+
+**Skills:** Data Manipulation,Data Query Language.
+
+**Technology:** Microsoft SQL Server
+
+### Walmart Sales Project
+
+**Code:** [`Walmart Sales Project.sql`](https://github.com/hopeukwade/Portfolioprojects/blob/a91b7a07de17f347c8f7e733ba979dbc39130735/Walmart%20Sales%20Project.sql)
+
+**Goal:** The aim is to analyse Walmart sales in three branches and identify key factors influencing sales performance,product lines amd customer behaviours. Sales trends and effectiveness of sales strategies,optimize business operations and improve overall sales.
+
+**Descriptions:** The Dataaset was gotten from kaggle forecasting competition.
+
+**Approach Used:** Data Cleaning by conducting a thorough inspection to identify missing values,implement strategies to address missing values to ensure consistency.
+Exploratory Data Analysis by utilizing data visualization techniques to uncover patterns,trends and relationships between variables. Exploring the distribution of sales,customers behaviours and prooduct performance.
+
+**Technology:** MySQL
+
+### Inpatients and Outpatients Hospital Analysis
+
+**Code:** [`Inpatients and Outpatients Hospital Analysis.pbix`](https://github.com/hopeukwade/Portfolioprojects/blob/a91b7a07de17f347c8f7e733ba979dbc39130735/Inpatients%20and%20Outpatients%20Hospital%20Analysis.pbix)
+
+**Goal:** The aim is to track current satus of patients waitlist,Analyse monthly trends of both inpatients and outpatients categories,Detail speciality levels and calculate average waitlist to understand patterns.
+
+**Description:** The Dataset contains information from 2018-2024.
+
+**Skills/Technology:** Data cleaning,DAX Calculation,Data Visualization all done on Microsoft Power Bi.
+
+**Conclusion:** There is a higher rate of inpatients between the age 16 to 64 years and there was a substantial rise in outpatient over the years.
+
+### Outdoor Sales Analysis
+
+**Code:** [`OUTDOOR SALES ANALYSIS.pbix`](https://github.com/hopeukwade/Portfolioprojects/blob/a91b7a07de17f347c8f7e733ba979dbc39130735/OUTDOOR%20SALES%20ANALYSIS.pbix)
+
+**Goals:** To analyse sales performance,understand top selling products,profit analysis and what area needs working on.
+
+**Dataset:** Gotten from Kaggle.
+
+**Skills and Technology:** Data cleaning,Dax functions to perform key performance insights and financial stories behind the numbers, Data visualization all done by using Microsoft Excel and Power Bi.
+
+**Results:** The analysis showed a detailed performance on how Countries,Products,Genders contributes to the profits of the Company with women bringing in 48% sales showing inclusive marketing and product offering. The analysis also showed that France has untapped potentials and also underperforming products needs more focus and advertising resources in order to reach great heights.
+
+
+### Coffee Order Analysis 
+
+**Code:** [`coffeeOrdersData project.xlsx`](https://github.com/hopeukwade/Portfolioprojects/blob/a91b7a07de17f347c8f7e733ba979dbc39130735/coffeeOrdersData%20project.xlsx)
+
+
+## Certificates
+
+The best way to showcase skills is by doing and sharing projects done but sometimes certificates gives an indirect results. Here is the list of some of mine;
+
+- TECHYJAUNT Data Analysis Course(2024)
+- DYEN Digiital Marketing Course(2023)
+
+
+## Contacts
+- LinkedIn: [@HopeUkwade](www.linkedin.com/in/hope-ukwade)
+- Email: urhiemehopeukwade@yahoo.com
+
  
                  
        
