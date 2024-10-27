@@ -80,7 +80,7 @@ This is a repository to showcase skills,share projects and track my progress in 
 
 ### Most Streamed Music Spotify 
 
-**Code:** [`https://github.com/hopeukwade/Portfolioprojects/blob/main/MOST%20STREAMED%20MUSIC%20SPORTIFY-checkpoint.ipynb`](https://github.com/hopeukwade/Portfolioprojects/blob/main/MOST%20STREAMED%20MUSIC%20SPORTIFY-checkpoint.ipynb)
+**Code:** [`MOST STREAMED MUSIC SPORTIFY-checkpoint.ipynb`](https://github.com/hopeukwade/Portfolioprojects/blob/main/MOST%20STREAMED%20MUSIC%20SPORTIFY-checkpoint.ipynb)
 
  
  
