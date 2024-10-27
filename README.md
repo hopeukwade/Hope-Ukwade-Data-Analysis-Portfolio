@@ -77,6 +77,11 @@ This is a repository to showcase skills,share projects and track my progress in 
 
  **Result:** Updating all columns to numeric values helps us to understand which variables are strongly or weakly correlated with each other. Votes and budget has the highest correlation. The Action Genre had the highest level of success across all movies whereas family genre had the highest average success rates. There was a strong positive relationship between movie budget and vote count suggesting higher budget movies leads to more votes. Factors like production company,movie name and genre showed little or no correlation with success.
 
+
+### Most Streamed Music Spotify 
+
+**Code:** [`https://github.com/hopeukwade/Portfolioprojects/blob/main/MOST%20STREAMED%20MUSIC%20SPORTIFY-checkpoint.ipynb`](https://github.com/hopeukwade/Portfolioprojects/blob/main/MOST%20STREAMED%20MUSIC%20SPORTIFY-checkpoint.ipynb)
+
  
  
                  
