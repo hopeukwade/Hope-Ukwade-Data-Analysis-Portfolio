@@ -82,6 +82,21 @@ This is a repository to showcase skills,share projects and track my progress in 
 
 **Code:** [`MOST STREAMED MUSIC SPORTIFY-checkpoint.ipynb`](https://github.com/hopeukwade/Portfolioprojects/blob/main/MOST%20STREAMED%20MUSIC%20SPORTIFY-checkpoint.ipynb)
 
+**Goal:** To understand trends,songs that make it to the streaming services,year with the highest streams and correlation between Spotify and Youtube.
+
+**Dataset:** This is gotten from kaggle, it has 4,600 songs.
+
+**Skills:** Data cleaning,Data analysis,correlation matrics and visualization.
+
+**Technology:** Phython,Matplotlib,numpy,seaborn,pandas.
+
+**Result:** Using python function, Blinding light maintain its reign as top streaming songs. Drake,The weeknd and Taylor Swift consistently rank among the Top which highlights their significant influence on current music consumption. The Data points underscores the dynamic nature of music Industry and importance of analysing trends over time and the correlation matrics revealed a positive relationship betwwen spotify and Youtube views suggesting a degree of cross platfoam engagement among music listeners.
+
+
+### Nashville Housing Data Cleaning 
+
+**Code:** [`
+
  
  
                  
