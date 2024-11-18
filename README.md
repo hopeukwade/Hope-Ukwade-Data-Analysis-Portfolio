@@ -152,7 +152,7 @@ The best way to showcase skills is by doing and sharing projects done but someti
 
 
 ## Contacts
-- LinkedIn: [!LinkedIn](www.linkedin.com/in/hope-ukwade)
+- LinkedIn: www.linkedin.com/in/hope-ukwade
   
 - Email: urhiemehopeukwade@yahoo.com
 
