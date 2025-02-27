@@ -11,7 +11,7 @@ During my studies, i perfected my ability to work with complex data and develope
 In my free time, I enjoyed exploring new analysis tools and techniques to further my knowledge and skills. Whether working alone or on a team,I am driven by the thrill of discovering new insights and satisfaction of using Data to solve complex problems.
 
 
-My CV in [PDF](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio/blob/main/hope%20%20stephen%202%20resume.pdf)
+My CV in [PDF](https://github.com/hopeukwade/Hope-Ukwade-Data-Analysis-Portfolio/blob/main/hope%20%20stephen%20DA%20resume.pdf)
 
 
 This is a repository to showcase skills,share projects and track my progress in Data Analysis.
